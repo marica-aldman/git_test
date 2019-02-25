@@ -1,1 +1,5 @@
 test
+
+test2
+
+testar kommentarer i git pre-commit
